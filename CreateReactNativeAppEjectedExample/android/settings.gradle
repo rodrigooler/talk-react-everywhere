@@ -1,0 +1,3 @@
+rootProject.name = 'CreateReactNativeAppEjectedExample'
+
+include ':app'
